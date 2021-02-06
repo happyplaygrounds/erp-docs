@@ -3,10 +3,12 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/happyplaygrounds/erp-docs
     - title: News
       url: /news
+    - title: GitHub
+      external_url: https://github.com/happyplaygrounds/erp-docs
+    - title: HIIQ
+      external_url: https://happypg-erp-staging.herokuapp.com/
 
 #Topnav dropdowns
 topnav_dropdowns:
