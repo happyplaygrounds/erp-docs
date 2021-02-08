@@ -1,0 +1,191 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: HIIQ 
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: About Help
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Introduction
+      url: /hiiq_introduction.html
+      output: web, pdf
+
+    - title: Supported features
+      url: /hiiq_supported_features.html
+      output: web, pdf
+
+    - title: About Happy and Me
+      url: /hiiq_about.html
+      output: web, pdf
+
+    - title: Support
+      url: /hiiq_support.html
+      output: web, pdf
+
+  - title: Release Notes
+    output: web, pdf
+    folderitems:
+
+    - title: 1.0 Release notes
+      url: /hiiq_release_notes_10.html
+      output: web, pdf
+
+  - title: Requirements
+    output: web, pdf
+    folderitems:
+
+    - title: Browser 
+      url: /hiiq_browser.html
+      output: web, pdf
+
+  - title: Navigation
+    output: web, pdf
+
+    folderitems:
+    - title: Sidebar navigation
+      url: /hiiq_sidebar_navigation.html
+      output: web, pdf
+
+    - title: Tags
+      url: /hiiq_tags.html
+      output: web, pdf
+
+    - title: TopBar Navigation
+      url: /hiiq_tobar_navigation.html
+      output: web, pdf
+
+  - title: Customers
+    output: web, pdf
+
+    folderitems:
+    - title: Finding Customers
+      url: /hiiq_finding_customers.html
+      output: web, pdf
+
+    - title: Adding Customers
+      url: /hiiq_adding_customers.html
+      output: web, pdf
+
+    - title: Updating Customers
+      url: /hiiq_updating_customers.html
+      output: web, pdf
+
+    - title: Deleting Customers
+      url: /hiiq_deleting_customers.html
+      output: web, pdf
+
+  - title: Vendors
+    output: web, pdf
+
+    folderitems:
+    - title: Finding Vendors
+      url: /hiiq_finding_vendors.html
+      output: web, pdf
+
+    - title: Adding Vendors
+      url: /hiiq_adding_vendors.html
+      output: web, pdf
+
+    - title: Updating Vendors
+      url: /hiiq_updating_vendors.html
+      output: web, pdf
+
+    - title: Deleting Vendors
+      url: /hiiq_deleting_vendors.html
+      output: web, pdf
+
+  - title: Products
+    output: web, pdf
+
+    folderitems:
+    - title: Finding Products
+      url: /hiiq_finding_products.html
+      output: web, pdf
+
+    - title: Adding Products
+      url: /hiiq_adding_products.html
+      output: web, pdf
+
+    - title: Updating Products
+      url: /hiiq_updating_products.html
+      output: web, pdf
+
+    - title: Deleting Products
+      url: /hiiq_deleting_products.html
+      output: web, pdf
+
+  - title: Quotes
+    output: web, pdf
+
+    folderitems:
+    - title: Finding Quotes
+      url: /hiiq_finding_quotes.html
+      output: web, pdf
+
+    - title: Adding Quotes
+      url: /hiiq_adding_quotes.html
+      output: web, pdf
+
+    - title: Updating Quotes
+      url: /hiiq_updating_quotes.html
+      output: web, pdf
+
+    - title: Deleting Quotes
+      url: /hiiq_deleting_quotes.html
+      output: web, pdf
+
+    - title: Printing Quotes
+      url: /hiiq_printing_quotes.html
+      output: web, pdf
+
+# - title: Authoring
+#   output: web, pdf
+
+#   folderitems:
+#   - title: Pages
+#     url: /hiiq_pages.html
+#     output: web, pdf
+
+# - title: Handling reviews
+#   output: web, pdf
+
+#   folderitems:
+#   - title: Commenting on files
+#     url: /hiiq_commenting_on_files.html
+#     output: web, pdf
+
+#    - title: Git collaboration
+#      url: /hiiq_git_collaboration
+#      output: web, pdf
+
+  - title: Troubleshooting
+    output: web, pdf
+
+    folderitems:
+
+    - title: Troubleshooting
+      url: /hiiq_troubleshooting.html
+      output: web, pdf
+

@@ -1,0 +1,77 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Happy Help 
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Getting Started
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Introduction
+      url: /help_introduction.html
+      output: web, pdf
+
+    - title: Supported features
+      url: /help_supported_features.html
+      output: web, pdf
+
+    - title: About Happy and Me
+      url: /help_about.html
+      output: web, pdf
+
+    - title: Support
+      url: /help_support.html
+      output: web, pdf
+
+  - title: Release Notes
+    output: web, pdf
+    folderitems:
+
+    - title: 1.0 Release notes
+      url: /help_release_notes_10.html
+      output: web, pdf
+
+  - title: Requirements
+    output: web, pdf
+    folderitems:
+
+    - title: Browser 
+      url: /help_browser.html
+      output: web, pdf
+
+  - title: Navigation
+    output: web, pdf
+
+    folderitems:
+    - title: Sidebar navigation
+      url: /help_sidebar_navigation.html
+      output: web, pdf
+
+    - title: Tags
+      url: /help_tags.html
+      output: web, pdf
+
+    - title: TopBar Navigation
+      url: /help_tobar_navigation.html
+      output: web, pdf
