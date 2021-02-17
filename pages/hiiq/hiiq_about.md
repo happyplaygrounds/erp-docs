@@ -1,22 +1,20 @@
 ---
-title: About the theme's author
-keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
-last_updated: July 3, 2016
+title: About HIIQ's author and Happy
+keywords: documentation theme, HIIQ, technical writers, help authoring tools
+last_updated: February 17, 2021
 tags: [getting_started]
-summary: "I have used this theme for projects that I've worked on as a professional technical writer."
-sidebar: mydoc_sidebar
-permalink: mydoc_about.html
-folder: mydoc
+summary: "Happy Playgrounds is Kelli Collins vision and I have worked in IT most of my career"
+sidebar: hiiq_sidebar
+permalink: hiiq_about.html
+folder: hiiq
 ---
 
-My name is Tom Johnson, and I'm a technical writer, blogger, and podcaster based in San Jose, California. For more details, see my [technical writing blog](http://idratherbewriting.com) and my [course on API documentation](http://idratherbewriting.com/learnapidoc/).  See [my blog's about page](http://idratherbewriting.com/aboutme/) for more details about me.
+My name is Brian Collins, and I'am a swimmer, tennis player, golfer and CIO (IT guy). I enjoy solving problems and improving processes and that is why I wrote HIIQ. HIIQ is a work in process and if your reading this you will be a part of helping me improve HIIQ. Who knows what we will create and what the final product will look like.
 
-I have used this theme and variations of it for various documentation projects. This theme has undergone several major iterations, and now it's fairly stable and full of all the features that I need. You are welcome to use it for your documentation projects for free.
+I have written a lot of software. The largest software system I wrote was a web based and ran every aspect of an oil field pipe and supply company. The system processed 2 billion dollars of sales invoices a year at its peak. Seventy five thousand payable invoices a month and fifty thousand sales invoices. I am glad I am out of that environment and excited about creating a oftware to help Happy grow. 
 
-I think this theme does pretty much everything that you can do with something like OxygenXML, but without the constraints of structured authoring. Everything is completely open and changeable, so if you start tinkering around with the theme's files, you can break things. But it's completely empowering as well!
+Kelli started Happy Playgrounds in 2019 and it has grown exponentially year over year. It has been fun to watch and at times difficult but what business doesn't have growing pains. Glad you have joined the team.
 
-With a completely open architecture and code base, you can modify the code to make it do exactly what you want, without having to jump through all kinds of confusing or proprietary code.
-
-If there's a feature you need but it isn't available here, let me know and I might add it. Alternatively, if you fork the theme, I would love to see your modifications and enhancements. Thanks for using Jekyll.
+If there's a feature you need but it isn't available here, let me know and I might add it. Thanks for using HIIQ.
 
 {% include links.html %}

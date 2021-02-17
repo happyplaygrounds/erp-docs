@@ -48,7 +48,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 1.0 Release notes
+    - title: Release notes 1.0
       url: /hiiq_release_notes_10.html
       output: web, pdf
 
