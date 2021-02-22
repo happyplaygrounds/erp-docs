@@ -56,24 +56,46 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Browser 
-      url: /hiiq_browser.html
+    - title: Browsers 
+      url: /hiiq_browsers.html
       output: web, pdf
 
   - title: Navigation
     output: web, pdf
 
     folderitems:
-    - title: Sidebar navigation
-      url: /hiiq_sidebar_navigation.html
+
+
+    - title: HIIQ TopBar Navigation
+      url: /hiiq_topbar_navigation.html
       output: web, pdf
 
-    - title: Tags
-      url: /hiiq_tags.html
+    - title: Support Topbar Naviagation
+      url: /hiiq_support_navigation.html
       output: web, pdf
 
-    - title: TopBar Navigation
-      url: /hiiq_tobar_navigation.html
+  - title: Quotes
+    output: web, pdf
+
+    folderitems:
+    - title: Finding Quotes
+      url: /hiiq_finding_quotes.html
+      output: web, pdf
+
+    - title: Adding Quotes
+      url: /hiiq_adding_quotes.html
+      output: web, pdf
+
+    - title: Updating Quotes
+      url: /hiiq_updating_quotes.html
+      output: web, pdf
+
+    - title: Deleting Quotes
+      url: /hiiq_deleting_quotes.html
+      output: web, pdf
+
+    - title: Printing Quotes
+      url: /hiiq_printing_quotes.html
       output: web, pdf
 
   - title: Customers
@@ -136,29 +158,6 @@ entries:
       url: /hiiq_deleting_products.html
       output: web, pdf
 
-  - title: Quotes
-    output: web, pdf
-
-    folderitems:
-    - title: Finding Quotes
-      url: /hiiq_finding_quotes.html
-      output: web, pdf
-
-    - title: Adding Quotes
-      url: /hiiq_adding_quotes.html
-      output: web, pdf
-
-    - title: Updating Quotes
-      url: /hiiq_updating_quotes.html
-      output: web, pdf
-
-    - title: Deleting Quotes
-      url: /hiiq_deleting_quotes.html
-      output: web, pdf
-
-    - title: Printing Quotes
-      url: /hiiq_printing_quotes.html
-      output: web, pdf
 
 # - title: Authoring
 #   output: web, pdf

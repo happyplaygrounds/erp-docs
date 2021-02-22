@@ -1,5 +1,5 @@
 ---
-title: Release notes 1.0
+title: Release Notes 1.0
 tags: [getting_started]
 keywords: release notes, announcements, what's new, new features
 last_updated: February 17, 2021
@@ -10,7 +10,7 @@ folder: hiiq
 ---
 
 ## Customer Quoting
-Automated quote pricing and cost capture for Playground, Shade, Shelter and site amenities 
+Automated quote pricing and cost capture for Playground, Shade, Shelter and Site amenities 
 
 ## Vendor Purchasing
 Provides purchase order generation for vendors specified on the quote.
