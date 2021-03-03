@@ -1,5 +1,5 @@
 ---
-title: Sidebar Navigation
+title: Top Bar Navigation
 tags: [navigation]
 last_updated: July 3, 2016
 keywords: topbar 
@@ -13,7 +13,9 @@ folder: hiiq
 
 Here is an image of the HIIQ top bar.
 
-<img src="images/hiiq_topbar.png" />
+<a rel="noopener" href="images/hiiq_topbar.png"><img src="images/hiiq_topbar.png" class="img-responsive img-hover"></a>
+
+*Click on image to enlarge then the back button to return*
 
 We will review each menu item
 

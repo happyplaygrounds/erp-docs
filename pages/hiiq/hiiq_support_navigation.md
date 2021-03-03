@@ -13,7 +13,9 @@ folder: hiiq
 
 Here is an image of the HIIQ top bar.
 
-<img src="images/support_topbar.png" />
+<a rel="noopener" href="images/support_topbar.png"><img src="images/support_topbar.png" class="img-responsive img-hover"></a>
+
+*Click on image to enlarge then the back button to return*
 
 If you click on Happy Playgrounds or the logo it will take you documentation for Happy Help. If you want to return to HIIQ documentation click on Products and in the drop down select HIIQ documentation.
 
