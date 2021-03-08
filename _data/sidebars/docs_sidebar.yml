@@ -32,10 +32,6 @@ entries:
       url: /help_introduction.html
       output: web, pdf
 
-    - title: Supported features
-      url: /help_supported_features.html
-      output: web, pdf
-
     - title: About Happy and Me
       url: /help_about.html
       output: web, pdf
@@ -73,5 +69,5 @@ entries:
       output: web, pdf
 
     - title: TopBar Navigation
-      url: /help_tobar_navigation.html
+      url: /help_topbar_navigation.html
       output: web, pdf

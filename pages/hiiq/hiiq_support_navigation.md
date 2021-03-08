@@ -1,9 +1,9 @@
 ---
 title: Support Navigation
 tags: [navigation]
-last_updated: July 3, 2016
+last_updated: March 5, 2021
 keywords: support 
-summary: "The support navigation option takes you to the Happy support site"
+summary: "The support navigation option takes you to the Happy Playgrounds Support and Documentation site"
 sidebar: hiiq_sidebar
 permalink: hiiq_support_navigation.html
 folder: hiiq
@@ -13,7 +13,7 @@ folder: hiiq
 
 Here is an image of the HIIQ top bar.
 
-<a rel="noopener" href="images/support_topbar.png"><img src="images/support_topbar.png" class="img-responsive img-hover"></a>
+<a rel="noopener" href="images/happy_docs_topbar.png"><img src="images/happy_docs_topbar.png" class="img-responsive img-hover"></a>
 
 *Click on image to enlarge then the back button to return*
 
@@ -21,9 +21,9 @@ If you click on Happy Playgrounds or the logo it will take you documentation for
 
 We will review each menu item
 
-## Products
+## Docs
 
-The `Products` menu is where you find documentation for Happy products. Currently there is only HIIQ documentation but there will be additional products documented. These products can range from technology, product, process, human resource, etc. Happy Help can be our intranet where you come for all your answers. 
+The `Docs` menu is where you find documentation for Happy products. Currently there is only HIIQ documentation but there will be additional products documented. These products can range from technology, product, process, human resource, etc. Happy Help can be our intranet where you come for all your answers. 
 
 ## News
 

@@ -4,9 +4,9 @@ tags: [getting_started]
 keywords: release notes, announcements, what's new, new features
 last_updated: February 17, 2021
 summary: "Version 1.0 was released January 1, 2021"
-sidebar: hiiq_sidebar
-permalink: hiiq_release_notes_10.html
-folder: hiiq
+sidebar: docs_sidebar
+permalink: help_release_notes_10.html
+folder: help
 ---
 
 ## Customer Quoting
@@ -17,6 +17,6 @@ Provides purchase order generation for vendors specified on the quote.
 
 ## Documentation
 
-Created HIIQ documentation in Happy Docs. 
+Created HIIQ documention. 
 
 {% include links.html %}

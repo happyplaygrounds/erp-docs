@@ -18,7 +18,7 @@ After finding the vendor you want to update click on the Edit link. This will ta
 
 ### Overview
 
-Updating a Happy Vendor allows you to modify fields for the vendor such as mailing address and contact information for example. Please make sure changes to the Vendor don't have an impact on prior purchases and sales orders. Once a sale has been made the Vendor Name should not be changed.
+Updating a Happy Vendor allows you to modify fields for the vendor such as mailing address and contact information for example. Please make sure changes to the Vendor don't have an impact on prior purchases and sales orders. Once a Purchase Order has been created the Vendor Name should not be changed.
 
 
 ### Required Fields

@@ -7,13 +7,13 @@ folder: help
 
 ## Overview
 
-This site provides documentation, training, and other notes for Happy Playgrounds. There will be a lot of information about how to do a variety of things here. 
+This site provides documentation and training for Happy Playgrounds. These pages will contain information about how to do a variety of things.
 
-This site is built to accommodate documentation for multiple products/processes on the same site.
+This site is built to accommodate documentation for multiple products and processes on the same site.
 
 ## Survey of features
 
-Some of the more prominent features of this theme include the following:
+Some of the more prominent features of this site include the following:
 
 * Bootstrap framework
 * Multi-level sidebar for table of contents

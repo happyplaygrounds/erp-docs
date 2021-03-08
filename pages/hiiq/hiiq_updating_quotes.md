@@ -1,26 +1,36 @@
 ---
-title: Adding Quotes
+title: Updating Quotes
 tags: [quotes]
-keywords: adding, quotes
+keywords: updating, quotes
 last_updated: February 23, 2021
-summary: "You can add a quote by clicking on New Quote at the bottom of the Quote Search Results"
+summary: "You can update a quote by clicking on Edit link after you find the quote"
 sidebar: hiiq_sidebar
-permalink: hiiq_adding_quotes.html
+permalink: hiiq_updating_quotes.html
 folder: hiiq
 ---
 
-## Adding Quotes
-Before adding a Quote you need to either Find an existing Customer or Add a New Customer. Once you have found or added a New customer you can create a Quote by finding the Customer either in the top bar Home link or Customer link. Click on New Quote at the bottom of the screen to create the quote. After clicking New Quote you will see the below input form.
+## Updating Quotes
+Before updating a Quote you need to Find an existing quote. Once you have found a quote. Click on the Edit link after the show link to the right of the Quote number and date. The Quote header and all the details items will be displayed on the screen. At this point you can update the existing Quote Header and Detail records. Plus, you can add or remove line items.
 
-<a rel="noopener" href="images/quote_header_add_screen.png"><img src="images/quote_header_add_screen.png" class="img-responsive img-hover"></a>
+<a rel="noopener" href="images/quote_header_update_screen.png"><img src="images/quote_header_update_screen.png" class="img-responsive img-hover"></a>
 
 *Click on image to enlarge then the back button to return*
 
-### Quote Header Overview
+### Quote Header Update Overview
 
-Creating a Happy Quote Header requires you enter important information about your Customers Quote. Below is the list of required fields on the Quote Header. Many of the fields are self explanatory (i.e Quote Date). Input fields that require further explanation will be detailed below in the Required field section. Once you have entered all the required fields you can add a quote line, which is explained on this page under the Quote Line Overview section. You can click Save Quote which will save the Quote Header or you click Cancel which will not Save anything you have entered. If you see and asterisk above the input column that means it is a required field.
+A Happy Quote Header has input fields that are required. If you remove existing input from a required field you will receive and error when you try to save the quote. Below is the list of required fields for the Quote Header. Many of the fields are self explanatory (i.e Quote Date). Input fields that require further explanation will be detailed below the Required field section. Once all required fields are entered you can either Save Quote or continue updating line items. Click Cancel which will not Save anything. If you see an asterisk above the input column that means it is a required field. 
 
-The customer name is a link and if you click on it you can edit the Customer Information
+### Copy Quote Link
+
+The copy quote link will copy the existing quote to a new quote with an incremented quote sub number. For example if your quote number is 1000-0. After you click copy quote a new quote will be generated with the number of 1000-1. You will be editing the new quote number after clicking the link.
+
+### Tax Override
+
+Happy is evaluating automatic tax calculation packages but we have not found one that fits our cost structure. When you check the tax override box and populate the Additional tax total field this will be the tax displayed on the quote. If you have questions regarding tax calculations talk to Happy's tax expert, Kelli. Tax rate currently does not print on the quote.
+
+### Discount Override
+
+Similar to the Tax override this is where you enter a discount for the entire quote. Click the Discount override check box and enter and amount in the Discount field to give a discount to the customer. You can add a discount line item but this amount will not be include in the total quote discount. 
 
 ### Quote Header Required Fields
 
@@ -65,9 +75,13 @@ P.O. Notes
 : {{site.data.glossary.po_notes}}
 
 
-### Quote Detail Overview
+### Quote Detail Update Overview
 
-Creating a Happy Quote Detail requires you enter critical product, pricing, and vendor information. Below is the list of required fields on the Quote Detail. Some of the fields are self explanatory (i.e Description). Input fields that require further explanation will be detailed below the Required field section below. Once you have entered all the required fields. You can Save Quote which will save the Quote Detail or you click Cancel which will not Save anything you have entered. If you see and asterisk above the input column that means it is a required field.
+Updating a Happy Quote Detail Line requires certain required fields. If you remove data from a required field you to ll receive and error until required fields are populated. Below is the list of required fields on the Quote Detail. Some of the fields are self explanatory (i.e Description). Input fields that require further explanation will be detailed below the Required field section below. Once you have entered all the required fields you can update the line, which is explained on this page under the Quote Line Overview section. You can Save Quote which will save the Quote Detail or you click Cancel which will not Save anything you have entered. If you see and asterisk above the input column that means it is a required field.
+
+### Update and Add detail line items
+
+The add and update pages for quote line items function exactly the same.
 
 <a rel="noopener" href="images/quote_detail_add_screen.png"><img src="images/quote_detail_add_screen.png" class="img-responsive img-hover"></a>
 
@@ -143,9 +157,9 @@ Detail Internal Notes
 
 ### Helpful things to know
 
-Customer Name is a link to the Customer edit form.
+Customer Name is a link
 
-Input fields with arrows at the end pointing up and down are called "select boxes". You can click on the field and then scroll through the value selections.
+Input fields with arrows at the end pointing up and down are called "select boxes". You can click on the field and then scroll through the selections.
 
 Dates default to today's date
 

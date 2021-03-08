@@ -36,10 +36,6 @@ entries:
       url: /hiiq_supported_features.html
       output: web, pdf
 
-    - title: About Happy and Me
-      url: /hiiq_about.html
-      output: web, pdf
-
     - title: Support
       url: /hiiq_support.html
       output: web, pdf
@@ -157,6 +153,14 @@ entries:
 
     - title: Printing Quotes
       url: /hiiq_printing_quotes.html
+      output: web, pdf
+
+  - title: Purchase Orders
+    output: web, pdf
+
+    folderitems:
+    - title: About Happy Purchasing
+      url: /hiiq_about_purchasing.html
       output: web, pdf
 
 # - title: Authoring
