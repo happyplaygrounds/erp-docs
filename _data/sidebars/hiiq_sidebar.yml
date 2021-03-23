@@ -159,7 +159,7 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Happy Purchasing
+    - title: Purchasing
       url: /hiiq_purchasing.html
       output: web, pdf
 
