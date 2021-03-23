@@ -66,12 +66,12 @@ entries:
       url: /hiiq_topbar_navigation.html
       output: web, pdf
 
-    - title: Support Naviagation
+    - title: Happy Docs Naviagation
       url: /hiiq_support_navigation.html
       output: web, pdf
 
 
-  - title: Customers
+  - title: Happy Customers
     output: web, pdf
 
     folderitems:
@@ -91,7 +91,7 @@ entries:
       url: /hiiq_deleting_customers.html
       output: web, pdf
 
-  - title: Vendors
+  - title: Happy Vendors
     output: web, pdf
 
     folderitems:
@@ -111,7 +111,7 @@ entries:
       url: /hiiq_deleting_vendors.html
       output: web, pdf
 
-  - title: Products
+  - title: Happy Products
     output: web, pdf
 
     folderitems:
@@ -131,7 +131,7 @@ entries:
       url: /hiiq_deleting_products.html
       output: web, pdf
 
-  - title: Quotes
+  - title: Happy Quotes
     output: web, pdf
 
     folderitems:
