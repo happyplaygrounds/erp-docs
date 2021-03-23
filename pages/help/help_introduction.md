@@ -11,7 +11,7 @@ This site provides documentation and training for Happy Playgrounds. These pages
 
 This site is built to accommodate documentation for multiple products and processes on the same site.
 
-## Survey of features
+## Features
 
 Some of the more prominent features of this site include the following:
 
@@ -21,9 +21,5 @@ Some of the more prominent features of this site include the following:
 * Top navigation bar with drop-down menus
 * Notes, tips, and warning information notes
 * Tags for alternative navigation
-
-## Getting started
-
-To get started, see [Getting Started][index].
 
 {% include links.html %}

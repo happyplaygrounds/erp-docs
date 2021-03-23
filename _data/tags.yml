@@ -4,6 +4,11 @@
 allowed-tags:
   - getting_started
   - content_types
+  - customers
+  - vendors
+  - products
+  - printing
+  - quotes
   - navigation
   - formatting
   - publishing
@@ -13,3 +18,4 @@ allowed-tags:
   - news
   - troubleshooting
   - mobile
+  - printing

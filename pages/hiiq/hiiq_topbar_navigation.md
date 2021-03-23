@@ -3,7 +3,7 @@ title: Top Bar Navigation
 tags: [navigation]
 last_updated: July 3, 2016
 keywords: topbar 
-summary: "The topbar navigation allows you to click on any of the HIIQ categories. Plus, this is where you logout of HIIQ"
+summary: "The topbar navigation allows you to click on any of the HIIQ categories. Plus, it is where you logout of HIIQ"
 sidebar: hiiq_sidebar
 permalink: hiiq_topbar_navigation.html
 folder: hiiq
@@ -17,32 +17,31 @@ Here is an image of the HIIQ top bar.
 
 *Click on image to enlarge then the back button to return*
 
-We will review each menu item
 
 ## Home
 
-The `HOME` menu selection is pretty self explanatory. Select this option when you want to return to the Home page. The home page is the same page as the `Customer` selection. As I said in the overview it all starts with the customer.
+The `HOME` menu selection is self explanatory. Select this option when you want to return to the Home page. The home page is the same page as the `Customer` selection link. 
 
 ## Quotes
 
-The `#Quotes` 
+The `#Quotes` menu selection allows you search for a quote by quote #. You don't have to look up the Customer first. 
 
 ## Customer
 
-The `Customer` menu selection is pretty self explanatory. Select this option when you want to return to the Home page. The home page is the same page as the `Customer` selection. As I said in the overview it all starts with the customer.
+The `Customer` menu selection. Select this option when you want to look up a Customer. 
 
 ## Vendor
 
-The `Vendor` menu selection is pretty self explanatory. Select this option when you want to return to the Home page. The home page is the same page as the `Customer` selection. As I said in the overview it all starts with the customer.
+The `Vendor` menu selection. Select this option when you want to look up a Vendor.
 
 
 ## Products
 
-The `Products` menu selection is pretty self explanatory. Select this option when you want to return to the Home page. The home page is the same page as the `Customer` selection. As I said in the overview it all starts with the customer.
+The `Products` menu selection. Select this option when you want to look up a part by description or part number.
 
 ## Support
 
-The `Support` menu selection is pretty self explanatory. Select this option when you want to return to the Home page. The home page is the same page as the `Customer` selection. As I said in the overview it all starts with the customer.
+The `Support` menu selection. Select this option when you want to view Happy documentation.
 
 
 {% include links.html %}

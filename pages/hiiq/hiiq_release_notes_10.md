@@ -10,7 +10,7 @@ folder: hiiq
 ---
 
 ## Customer Quoting
-Automated quote pricing and cost capture for Playground, Shade, Shelter and Site amenities 
+Automated quote pricing and material cost capture for Playground, Shade, Shelter and Site amenities 
 
 ## Vendor Purchasing
 Provides purchase order generation for vendors specified on the quote.

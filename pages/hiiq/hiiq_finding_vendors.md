@@ -1,9 +1,9 @@
 ---
-title: Finding Vendors
+title: Finding Happy Vendors
 tags: [vendors]
 keywords: finding, vendors
 last_updated: February 23, 2021
-summary: "You can find a vendor by clicking on Home or Customer options."
+summary: "You can find a Vendor by clicking on Home or Customer links."
 sidebar: hiiq_sidebar
 permalink: hiiq_finding_vendors.html
 folder: hiiq

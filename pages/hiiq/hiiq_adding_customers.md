@@ -18,8 +18,7 @@ Before adding a Customer you should search for an existing Customer to make sure
 
 ### Overview
 
-Creating a Happy Customer allows you to create a sales quote for the Customer. Currently there is no separation of customers between States or profit centers. Once you add a Customer the customer receives a unique customer number with HIIQ. Please try not to duplicate customers and search before adding a customer.
-
+Creating a Happy Customer allows you to create a sales quote for the Customer. Currently there is no separation of customers between States or profit centers. Once you add a Customer the customer receives a unique customer number within HIIQ. Please try not to duplicate customers and perform a search before adding a customer.
 
 ### Required Fields
 
@@ -40,6 +39,5 @@ Creating a Happy Customer allows you to create a sales quote for the Customer. C
 When you have completed filling all the input fields click the Create Happy customer button. If there are errors in the form you will be notified at the top of the screen. Fields that contain errors will have a red message next to the field that needs to corrected. After you have corrected the input errors click the Create Happy customer again. 
 
 If you want to cancel Creating the customer click Cancel and it will return you to the Happy Customer search page.
-
 
 {% include links.html %}

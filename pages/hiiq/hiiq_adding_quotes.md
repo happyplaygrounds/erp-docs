@@ -10,7 +10,7 @@ folder: hiiq
 ---
 
 ## Adding Quotes
-Before adding a Quote you need to either Find an existing Customer or Add a New Customer. Once you have found or added a New customer you can create a Quote by finding the Customer either in the top bar Home link or Customer link. Click on New Quote at the bottom of the screen to create the quote. After clicking New Quote you will see the below input form.
+Before adding a Quote you need to either Find an existing Customer or Add a New Customer. Once you have found an existing or have added a new customer you can create a Happy Quote. Click on New Quote at the bottom of the screen to create the quote. After clicking New Quote you will see the below input form.
 
 <a rel="noopener" href="images/quote_header_add_screen.png"><img src="images/quote_header_add_screen.png" class="img-responsive img-hover"></a>
 
@@ -18,7 +18,7 @@ Before adding a Quote you need to either Find an existing Customer or Add a New 
 
 ### Quote Header Overview
 
-Creating a Happy Quote Header requires you enter important information about your Customers Quote. Below is the list of required fields on the Quote Header. Many of the fields are self explanatory (i.e Quote Date). Input fields that require further explanation will be detailed below in the Required field section. Once you have entered all the required fields you can add a quote line, which is explained on this page under the Quote Line Overview section. You can click Save Quote which will save the Quote Header or you click Cancel which will not Save anything you have entered. If you see and asterisk above the input column that means it is a required field.
+Creating a Happy Quote Header requires you enter important information about your Customers Quote. Below is the list of required fields on the Quote Header. Many of the fields are self explanatory (i.e Quote Date). Input fields that require further explanation will be detailed below in the Field Definitions section. Once you have entered all the required fields you can add a quote line, which is explained on this page under the Quote Line Overview section. You can click Save Quote which will save the Quote Header or you click Cancel which will not Save anything you have entered. If you see and asterisk above the input column that means it is a required field.
 
 The customer name is a link and if you click on it you can edit the Customer Information
 
@@ -40,7 +40,7 @@ The customer name is a link and if you click on it you can edit the Customer Inf
 Payment Terms
 : {{site.data.glossary.terms}}
 
-Fob
+FOB
 : {{site.data.glossary.fob}}
 
 Quote Date
@@ -67,7 +67,7 @@ P.O. Notes
 
 ### Quote Detail Overview
 
-Creating a Happy Quote Detail requires you enter critical product, pricing, and vendor information. Below is the list of required fields on the Quote Detail. Some of the fields are self explanatory (i.e Description). Input fields that require further explanation will be detailed below the Required field section below. Once you have entered all the required fields. You can Save Quote which will save the Quote Detail or you click Cancel which will not Save anything you have entered. If you see and asterisk above the input column that means it is a required field.
+Creating a Happy Quote Detail Line item requires you enter critical product, pricing, and vendor information. Below is the list of required fields on the Quote Detail. Some of the fields are self explanatory (i.e Description). Input fields that require further explanation will be detailed below in the Fields Definition section. Once you have entered all the required fields. You can click Save Quote which will save the Quote Detail and Header or if you click Cancel nothing will be saved. If you see and asterisk above the input column that means it is a required field.
 
 <a rel="noopener" href="images/quote_detail_add_screen.png"><img src="images/quote_detail_add_screen.png" class="img-responsive img-hover"></a>
 
@@ -152,7 +152,6 @@ Dates default to today's date
 You should become accustomed to tabbing or using your mouse to navigate between input fields
 
 SAVE YOUR QUOTE WHENEVER POSSIBLE. Quote detail line items are stored in memory until you save the quote. 
-
 
 ### Save Quote or Cancel
 

@@ -23,10 +23,10 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: About Happy Docs
-      url: /index.html
-      output: web, pdf
-      type: homepage
+            #    - title: About Happy Docs
+            #url: /index.html
+            #output: web, pdf
+            #type: homepage
 
     - title: Introduction
       url: /hiiq_introduction.html
@@ -159,8 +159,8 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: About Happy Purchasing
-      url: /hiiq_about_purchasing.html
+    - title: Happy Purchasing
+      url: /hiiq_purchasing.html
       output: web, pdf
 
 # - title: Authoring

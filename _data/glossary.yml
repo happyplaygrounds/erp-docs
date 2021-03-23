@@ -40,18 +40,18 @@ total_amount: "Total amount of the line. Quantity times the unit price"
 
 quote_subtotal: "Sum of all the line items"
 
-vendor: "TheVendor that Happy is sourcing the item"
+vendor: "The Vendor that Happy is sourcing the item"
 
 buyout_price: "Unit cost Happy will pay the vendor"
 
 total_cost: "Sum of all the line item costs"
 
-vendor_discount: "This is an additional discount the vendor provides Happy. It will not show up as a line item but as a deduction in the totals"
+vendor_discount: "This is an additional discount the vendor provides Happy.`Vendor Discount does not effect the quote discount it only shows up on the Purchase Order`.  It will not show up as a line item but as a deduction in the totals"
 
 margin: "Happy's margin for the item"
 
 quote_margin: "Happy's margin for the entire quote"
 
-detail_external_notes: "Prints on the quote after the product line item prints. Notes will print is in italics and delimited by asterisks"
+detail_external_notes: "Prints on the quote after the product line item prints. Notes will print in italics and delimited by asterisks"
 
 detail_internal_notes: "Quote Detail Notes that only Happy employees can see"

@@ -1,9 +1,9 @@
 ---
-title: Finding Customers
+title: Finding Happy Customers
 tags: [customers]
 keywords: finding, customers
 last_updated: February 23, 2021
-summary: "You can find a customer by clicking on Home or Customer options."
+summary: "You can find a customer by clicking on the Home or Customer links in the topbar."
 sidebar: hiiq_sidebar
 permalink: hiiq_finding_customers.html
 folder: hiiq
@@ -12,7 +12,7 @@ folder: hiiq
 {% include note.html content="In HIIQ 1.0 you can only search for customers by name." %}
 
 ## Finding Customers
-You can find customers by typing in a portion of the Customers name. There is no need to type in wildcard characters. It will find your search criteria any where in the customers name (i.e beginning, middle or end). After entering your search criteria either press enter or click on the Search button.
+You can find customers by typing in a portion of the Customers name. There is no need to type in wild card characters. It will find your search criteria any where in the customers name (i.e beginning, middle or end). But matching the case of a word does matter. If the first letter of Customer name is capitalized the Search criteria must be capitalized as well to match. After entering your search criteria either press enter or click on the Search button.
 
 ## Search Results 
 <a rel="noopener" href="images/customer_find_results.png"><img src="images/customer_find_results.png" class="img-responsive img-hover"></a>

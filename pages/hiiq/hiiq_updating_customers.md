@@ -10,7 +10,7 @@ folder: hiiq
 ---
 
 ## Updating Customers
-After finding the customer you want to update click on the Edit link. This will take you to an Customer update page displayed below.
+After [finding the customer](http://localhost:4000/hiiq_finding_customers.html) you want to update click on the Edit link. This will take you to an Customer update page displayed below.
 
 <a rel="noopener" href="images/customer_update_screen.png"><img src="images/customer_update_screen.png" class="img-responsive img-hover"></a>
 

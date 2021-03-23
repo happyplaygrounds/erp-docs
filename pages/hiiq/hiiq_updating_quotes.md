@@ -18,19 +18,19 @@ Before updating a Quote you need to Find an existing quote. Once you have found 
 
 ### Quote Header Update Overview
 
-A Happy Quote Header has input fields that are required. If you remove existing input from a required field you will receive and error when you try to save the quote. Below is the list of required fields for the Quote Header. Many of the fields are self explanatory (i.e Quote Date). Input fields that require further explanation will be detailed below the Required field section. Once all required fields are entered you can either Save Quote or continue updating line items. Click Cancel which will not Save anything. If you see an asterisk above the input column that means it is a required field. 
+A Happy Quote Header has input fields that are required. If you remove existing input from a required field you will receive and error when you try to save the quote. Below is the list of required fields for the Quote Header. Many of the fields are self explanatory (i.e Quote Date). Input fields that require further explanation will be detailed below the Field Definitions section. Once all required fields are entered you can either Save Quote or continue updating line items. Click Cancel which will not Save anything. If you see an asterisk above the input column that means it is a required field. 
 
 ### Copy Quote Link
 
-The copy quote link will copy the existing quote to a new quote with an incremented quote sub number. For example if your quote number is 1000-0. After you click copy quote a new quote will be generated with the number of 1000-1. You will be editing the new quote number after clicking the link.
+The copy quote link will copy the existing quote to a new quote with an incremented quote sub number. The sub number is the number after the dash. For example if your quote number is 1234-0, the sub number is 0. After you click copy quote a new quote will be generated with the number of 1234-1, new sub number is 1. You will be editing the new quote number after clicking the Copy Quote link.
 
 ### Tax Override
 
-Happy is evaluating automatic tax calculation packages but we have not found one that fits our cost structure. When you check the tax override box and populate the Additional tax total field this will be the tax displayed on the quote. If you have questions regarding tax calculations talk to Happy's tax expert, Kelli. Tax rate currently does not print on the quote.
+Happy is evaluating automatic tax calculation packages but we have not found one that fits our cost structure. When you check the tax override box and populate the additional tax total field this will be the tax displayed on the quote. If you have questions regarding tax calculations talk to Happy's tax expert, Kelli. Tax rate currently does not print on the quote.
 
 ### Discount Override
 
-Similar to the Tax override this is where you enter a discount for the entire quote. Click the Discount override check box and enter and amount in the Discount field to give a discount to the customer. You can add a discount line item but this amount will not be include in the total quote discount. 
+Similar to the Tax override this is where you enter a discount for the entire quote. Click the Discount override check box and enter and amount in the Discount field to give a discount to the customer. You can add a discount line item but this amount will not be include in the total quote discount. If there is a discount entered in this field it will print a discount line in the quote sub totals section. If the check box is not checked and there is no discount entered there will not be a Discount line in the sub total.
 
 ### Quote Header Required Fields
 
@@ -77,9 +77,9 @@ P.O. Notes
 
 ### Quote Detail Update Overview
 
-Updating a Happy Quote Detail Line requires certain required fields. If you remove data from a required field you to ll receive and error until required fields are populated. Below is the list of required fields on the Quote Detail. Some of the fields are self explanatory (i.e Description). Input fields that require further explanation will be detailed below the Required field section below. Once you have entered all the required fields you can update the line, which is explained on this page under the Quote Line Overview section. You can Save Quote which will save the Quote Detail or you click Cancel which will not Save anything you have entered. If you see and asterisk above the input column that means it is a required field.
+Updating a Happy Quote Detail Line requires certain fields be populated. If you remove data from a required field you will receive an error until all required fields are populated. Below is the list of required fields on the Quote Detail. Some of the fields are self explanatory (i.e Description). Input fields that require further explanation will be detailed below in the Field Definitions section below. Once you have entered all the required fields you can update the line. You can either Save Quote which will save the Quote Detail or you click Cancel which will not Save anything you have entered. If you see and asterisk above the input column that means it is a required field.
 
-### Update and Add detail line items
+### Update and Add Detail Line Items
 
 The add and update pages for quote line items function exactly the same.
 

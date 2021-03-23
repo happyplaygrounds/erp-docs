@@ -1,5 +1,5 @@
 ---
-title: Finding Products
+title: Finding Happy Products
 tags: [products]
 keywords: finding, products
 last_updated: February 27, 2021
@@ -12,7 +12,7 @@ folder: hiiq
 {% include note.html content="In HIIQ 1.0 you can only search for products by part number and description." %}
 
 ## Finding Products
-You can find products by typing in the portion of either the part number or product description. There is no need to type in wildcard characters. It will find your search criteria anywhere in the products description (i.e beginning, middle or end). After entering your search criteria either press enter or click on the Search button.
+You can find products by typing in a portion of either the part number or product description. There is no need to type in wild card characters. It will find your search criteria anywhere in the products description (i.e beginning, middle or end). After entering your search criteria either press enter or click on the Search button.
 
 ## Search Results 
 <a rel="noopener" href="images/product_find_results.png"><img src="images/product_find_results.png" class="img-responsive img-hover"></a>
@@ -25,7 +25,7 @@ You will see how many product records are displayed and how many in total were f
 
 ### Body of Search Results
 
-Each line of results displays the product ID, description, List Price.
+Each line of results displays the product ID, Description, List Price.
 
 #### Product Navigation
 

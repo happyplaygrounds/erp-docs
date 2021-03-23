@@ -1,9 +1,9 @@
 ---
-title: Finding Quotes
+title: Finding Happy Quotes
 tags: [quotes]
 keywords: finding, quotes
 last_updated: February 23, 2021
-summary: "You can find a quote by clicking on Home or Customer options."
+summary: "You can find a quote by clicking on the Home or Customer links."
 sidebar: hiiq_sidebar
 permalink: hiiq_finding_quotes.html
 folder: hiiq
@@ -13,14 +13,16 @@ folder: hiiq
 There are two methods to find a quote. 
 
 ### First Method 
-Is to look up the customer and then click on the quotes link to list all the quotes associated with the Happy customer. In the top bar menu the Home link and Customer link are exactly the same. Both provide the ability to search for a customer by name. 
+Is to look up the customer and then click on the quotes link to list all the quotes associated with the Happy customer. In the topbar menu the Home link and Customer link are exactly the same. Both provide the ability to search for a customer by name. 
+
+<a rel="noopener" href="images/quote_find_results1.png"><img src="images/quote_find_results1.png" class="img-responsive img-hover"></a>
 
 ### Second Method
-The second method is to search for the quote by entering the quote number. You can find this option by clicking on the Quote link in the top bar menu and then select Search in the drop down menu.
+The second method is to search for the quote by entering the quote number. You can find this option by clicking on the Quote link in the topbar menu and then select Search in the drop down menu.
 Both of these methods display the same results which are displayed in the screen shot below. 
 
 ## Search Results 
-<a rel="noopener" href="images/quote_find_results.png"><img src="images/quote_find_results.png" class="img-responsive img-hover"></a>
+<a rel="noopener" href="images/quote_find_results2.png"><img src="images/quote_find_results2.png" class="img-responsive img-hover"></a>
 
 *Click on image to enlarge then the back button to return*
 

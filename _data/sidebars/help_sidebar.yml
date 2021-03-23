@@ -40,14 +40,6 @@ entries:
       url: /help_support.html
       output: web, pdf
 
-  - title: Release Notes
-    output: web, pdf
-    folderitems:
-
-    - title: 1.0 Release notes
-      url: /help_release_notes_10.html
-      output: web, pdf
-
   - title: Requirements
     output: web, pdf
     folderitems:
