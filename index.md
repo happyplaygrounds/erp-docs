@@ -12,7 +12,7 @@ summary: These brief instructions will help you understand more about Happy Docs
 
 You are currently on the Happy Docs website. Happy Docs allows Happy Playgrounds to communicate documentation and news to our team.
 
-{% include note.html content="If you were working in the HIIQ site and clicked Support and already know how to navigate Happy Docs. Click on the Docs menu and select HIIQ in the drop down to go directly to HIIQ documentation. Also, you can click <a alt='Happy ERP ' href='https://erp.happyplaygrounds.com'>here</a> to go back to HIIQ immediately." %} 
+{% include note.html content="If you were working in the HIIQ site and clicked on Happy Docs and already know how to navigate Happy Docs. Click on the Docs menu above and select HIIQ in the drop down to go directly to HIIQ documentation. Also, you can click <a alt='Happy ERP ' href='https://erp.happyplaygrounds.com'>here</a> to go back to HIIQ immediately." %} 
 
 ###  Terminology
 

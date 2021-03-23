@@ -155,7 +155,7 @@ entries:
       url: /hiiq_printing_quotes.html
       output: web, pdf
 
-  - title: Purchase Orders
+  - title: Happy Purchase Orders
     output: web, pdf
 
     folderitems:
