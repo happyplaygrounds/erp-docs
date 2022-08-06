@@ -13,7 +13,7 @@ My name is Brian Collins, I  have either been or currently am a swimmer, tennis 
 
 I have developed a lot of software. The largest software system I wrote was a point of sale system for an oil field pipe and supply company. The system processed 2 billion dollars of sales invoices a year. Seventy five thousand payable invoices a month and fifty thousand sales invoices. I am excited about creating software to help Happy grow. 
 
-Kelli started Happy Playgrounds in 2019 and Happy has grown exponentially year over year. It has been fun to watch and be a part of the growths. Were Happy your reading about Happy.
+Kelli started Happy Playgrounds in 2019 and Happy has grown exponentially year over year. It has been fun to watch and be a part of the growth. Were Happy your reading about Happy.
 
 If there's a feature you need but it isn't available here, let me know and I might add it. Thanks for using HIIQ.
 
